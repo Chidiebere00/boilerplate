@@ -46,4 +46,7 @@ This file can contain a lot of meta-data about the project. But mostly it will b
 Managing dependencies of the projectScripts ; Scripts, that helps in generating builds, running tests and other stuff
 in regards to the project.
 
-  
+**README.MD:** A README file contains information about other files in a directory or archive of computer software. 
+A form of documentation, it is usually a simple plain text file.
+
+
