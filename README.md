@@ -1,23 +1,23 @@
 
 # Timeline
 
-1900s- Nikola Tesla proposes an idea of a "world wireless system"
+1. 1900s- Nikola Tesla proposes an idea of a "world wireless system"
 
-1930s- Paul Otlet and Vannervar Bush conceived mechanized, searchabke stoarage systems of books and media.
+1. 1930s- Paul Otlet and Vannervar Bush conceived mechanized, searchabke stoarage systems of books and media.
 
-1940s- Colossu- an eclectonic digital computer was built to break german codes
+1. 1940s- Colossu- an eclectonic digital computer was built to break german codes
 
-1940s- Alan Turning use his Bombe Machine to break german Engima  machine
+2. 1940s- Alan Turning use his Bombe Machine to break german Engima  machine
 
-1960s- MIT J.C.R Licklider popularized the idea of "intergalactic Network"
+5. 1960s- MIT J.C.R Licklider popularized the idea of "intergalactic Network"
 
-1960s- The U.S goverment separates Military research from the military and create ARPANET or the Advanced Research Projects Agency Network
+6. 1960s- The U.S goverment separates Military research from the military and create ARPANET or the Advanced Research Projects Agency Network
 
-1960s- ARPANET was created as the US GOvernment neededa speedy and efficient way too commmunicate accross the country.
+7. 1960s- ARPANET was created as the US GOvernment neededa speedy and efficient way too commmunicate accross the country.
 
-1960s- ARPANET uses packet switching to allow multiple computers to communicate on a single network
+8. 1960s- ARPANET uses packet switching to allow multiple computers to communicate on a single network
 
-1960s- The first data transfer demonstrating a four-way connected network took place from Stanford University, the University of California at Santa Barbara, UCLA, and the University of Utah.
+9. 1960s- The first data transfer demonstrating a four-way connected network took place from Stanford University, the University of California at Santa Barbara, UCLA, and the University of Utah.
 
 1970s- Transmission Control Protocol and Internet Protocol (TCP/IP) was created to set a standard for how data could be transmitted between mltiple networks.
 
