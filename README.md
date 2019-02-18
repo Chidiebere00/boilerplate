@@ -3,9 +3,9 @@
 
 1. 1900s- Nikola Tesla proposes an idea of a "world wireless system"
 
-1. 1930s- Paul Otlet and Vannervar Bush conceived mechanized, searchabke stoarage systems of books and media.
+1. 1930s- Paul Otlet and Vannervar Bush conceived mechanized, searchable storage systems of books and media.
 
-1. 1940s- Colossu- an eclectonic digital computer was built to break german codes
+1. 1940s- Colossu- an electronic digital computer was built to break german codes
 
 2. 1940s- Alan Turning use his Bombe Machine to break german Engima  machine
 
