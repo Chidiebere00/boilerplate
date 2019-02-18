@@ -49,4 +49,5 @@ in regards to the project.
 **README.MD:** A README file contains information about other files in a directory or archive of computer software. 
 A form of documentation, it is usually a simple plain text file.
 
-
+**Examining index.html**
+![alt text] C:\Users\carla\Pictures\Camera Roll\Capture.PNG
