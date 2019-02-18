@@ -1,92 +1,49 @@
-# [HTML5 Boilerplate](https://html5boilerplate.com/)
+# Timeline
 
-[![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
-[![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
+1900s- Nikola Tesla proposes an idea of a "world wireless system"
 
-HTML5 Boilerplate is a professional front-end template for building
-fast, robust, and adaptable web apps or sites.
+1930s- Paul Otlet and Vannervar Bush conceived mechanized, searchabke stoarage systems of books and media.
 
-This project is the product of years of iterative development and
-community knowledge. It does not impose a specific development
-philosophy or framework, so you're free to architect your code in the
-way that you want.
+1940s- Colossu- an eclectonic digital computer was built to break german codes
 
-* Homepage: [https://html5boilerplate.com/](https://html5boilerplate.com/)
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Twitter: [@h5bp](https://twitter.com/h5bp)
+1940s- Alan Turning use his Bombe Machine to break german Engima  machine
 
+1960s- MIT J.C.R Licklider popularized the idea of "intergalactic Network"
 
-## Quick start
+1960s- The U.S goverment separates Military research from the military and create ARPANET or the Advanced Research Projects Agency Network
 
-Choose one of the following options:
+1960s- ARPANET was created as the US GOvernment neededa speedy and efficient way too commmunicate accross the country.
 
-- Download the latest stable release from
-  [html5boilerplate.com](https://html5boilerplate.com/).
-- Clone the git repo — `git clone
-  https://github.com/h5bp/html5-boilerplate.git` - and checkout the
-  [tagged release](https://github.com/h5bp/html5-boilerplate/releases)
-  you'd like to use.
-- Install with [npm](https://www.npmjs.com/): `npm install html5-boilerplate` and pull in what you need from the resulting `node_modules/html5-boilerplate/dist`
-- Install with [yarn](https://yarnpkg.com/): `yarn add html5-boilerplate`
+1960s- ARPANET uses packet switching to allow multiple computers to communicate on a single network
 
+1960s- The first data transfer demonstrating a four-way connected network took place from Stanford University, the University of California at Santa Barbara, UCLA, and the University of Utah.
 
-## Features
+1970s- Transmission Control Protocol and Internet Protocol (TCP/IP) was created to set a standard for how data could be transmitted between mltiple networks.
 
-* HTML5 ready. Use the new elements with confidence.
-* Designed with progressive enhancement in mind.
-* Includes:
-  * [`Normalize.css`](https://necolas.github.com/normalize.css/)
-    for CSS normalizations and common bug fixes
-  * [`jQuery`](https://jquery.com/) via CDN with [SRI Hash](https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity) and a local fallback
-  * A custom build of [`Modernizr`](https://modernizr.com/) for feature
-    detection
-  * [`Apache Server Configs`](https://github.com/h5bp/server-configs-apache)
-    that, among other, improve the web site's performance and security
-* Placeholder CSS Media Queries.
-* Useful CSS helper classes.
-* Default print styles, performance optimized.
-* An optimized version of the Google Universal Analytics snippet.
-* Protection against any stray `console` statements causing JavaScript
-  errors in older browsers.
-* "Delete-key friendly." Easy to strip out parts you don't need.
-* Extensive inline and accompanying documentation.
+1970s- Email is invented by Ray Tomlinson 
 
+1980s- Various researchers in many universities continue to research computer connections, and the technology become more known to the public
 
-## Browser support
+1980s- ARPANET begin the assembly of networks which lead to the modern day internet
 
-* Chrome *(latest 2)*
-* Edge *(latest 2)*
-* Firefox *(latest 2)*
-* Internet Explorer 11
-* Opera *(latest 2)*
-* Safari *(latest 2)*
+1990- Tim Berners-Lee invents the World WIde Web, allowing people to access websites and hyperlinks
 
-*This doesn't mean that HTML5 Boilerplate cannot be used in older browsers,
-just that we'll ensure compatibility with the ones mentioned above.*
+1990s- Netscape develops the first graphical browser that ran on popular computers
 
-If you need legacy browser support you can use [HTML5 Boilerplate v6](https://github.com/h5bp/html5-boilerplate/releases/tag/6.1.0) (IE9/IE10)
-or [HTML5 Boilerplate v5](https://github.com/h5bp/html5-boilerplate/releases/tag/5.3.0) (IE 8). They are no longer actively developed.
+1990s- Internet begins to be sold to the public
 
+1990s- The first iteration of the Internet available for commercial use was dial-up. It needed phone lines so phones could not be used while on thr internet
 
-## Documentation
+1990s- The first internets were very slow and expensive
 
-Take a look at the [documentation table of contents](dist/doc/TOC.md).
-This documentation is bundled with the project which makes it 
-available for offline reading and provides a useful starting point for
-any documentation you want to write about your project.
+2000s- Mobile phones become much more popular
 
+2000s- Apple introduces the first "smart" phone with a touch screen and better internet connectivity
 
-## Contributing
+2000s- Many tech companies were overvalued based on the promise of more users. Stocks of tech companies crashed and many companies went out of bussiness
 
-Hundreds of developers have helped to make the HTML5 Boilerplate. Anyone is welcome to [contribute](.github/CONTRIBUTING.md),
-however, if you decide to get involved, please take a moment to review
-the [guidelines](.github/CONTRIBUTING.md):
+2000s- Broadband starts to replace dial up. Broadband were much faster and did not need to be pluged in to work
 
-* [Bug reports](.github/CONTRIBUTING.md#bugs)
-* [Feature requests](.github/CONTRIBUTING.md#features)
-* [Pull requests](.github/CONTRIBUTING.md#pull-requests)
+2010s- Fibre optic broadband becomes availiable with even higher speeds.
 
-
-## License
-
-The code is available under the [MIT license](LICENSE.txt).
+2010s- Internet of Things, refers to everyday items connecting to the internet.
