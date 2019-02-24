@@ -92,3 +92,7 @@ on the desktop in some operating systems. This line of code specifies for the fa
 
 <link rel="stylesheet" href="css/main.css">: The <link> tag defines a link between a document and an external resource.
 The <link> tag is used to link to external style sheets.
+
+<meta name="theme-color" content="#fafafa">: Selects the theme color of website.
+
+</head>: Puts an end to the start of <head> explained earlier. 
