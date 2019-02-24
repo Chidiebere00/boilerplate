@@ -51,7 +51,15 @@ A form of documentation, it is usually a simple plain text file.
 
 **Examining index.html**
 <!doctype html> : simplified HTML5 doctype declaration.
+
 <html class="no-js" lang=""> : When Modernizr runs, it removes the "no-js" class and replaces it with "js". This is a
 way to apply different CSS rules depending on whether or not Javascript support is enabled.
+
 <head>: The <head> element is a container for metadata (data about data) and is placed between the <html> tag and the
 <body> tag.
+
+<meta charset="utf-8">: The charset attribute specifies the character encoding for the HTML document. Apparently, if
+the charset isn’t declared within the first 512 bytes of your HTML document, your site is vulnerable to malicious code
+and hijacking!. ( 	A character in UTF8 can be from 1 to 4 bytes long. UTF-8 can represent any character in the
+Unicode standard. UTF-8 is backwards compatible with ASCII. UTF-8 is the preferred encoding for e-mail and web pages)
+
