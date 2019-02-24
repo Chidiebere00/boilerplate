@@ -73,3 +73,16 @@ searched-for phrase is within the description.
 
 <meta name="viewport" content="width=device-width, initial-scale=1">": Used for responsive site or site for mobile;
 It’s basically a message to the mobile browser that says, “Render me differently, I’m designed for mobile screens too!”
+
+<link rel="manifest" href="site.webmanifest">:  
+The web app manifest provides information about an application (such as its name, author, icon, and description) in a 
+JSON text file. The manifest informs details for websites installed on the homescreen of a device, providing users with
+quicker access and a richer experience. Web app manifests are part of a collection of web technologies called
+progressive web apps, which are websites that can be installed to a device’s homescreen without an app store, along 
+with other capabilities like working offline and receiving push notifications.
+
+ <link rel="apple-touch-icon" href="icon.png">: specifies an icn for the entire websie (every page on the website).
+
+ <!-- Place favicon.ico in the root directory -->: Favicon stands for "Favorites Icon". It's the little icon beside your 
+site's name in the favorites list, before the URL  in the address bar and bookmarks folder and as a bookmarked website
+on the desktop in some operating systems. This line of code specifies for the favicon to go in the root directory.
