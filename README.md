@@ -86,3 +86,9 @@ with other capabilities like working offline and receiving push notifications.
  <!-- Place favicon.ico in the root directory -->: Favicon stands for "Favorites Icon". It's the little icon beside your 
 site's name in the favorites list, before the URL  in the address bar and bookmarks folder and as a bookmarked website
 on the desktop in some operating systems. This line of code specifies for the favicon to go in the root directory.
+
+ <link rel="stylesheet" href="css/normalize.css">: “Normalize.css makes browsers render all elements more consistently                    
+ and in line with modern standards.  It precisely targets only the styles that need normalizing.”
+
+<link rel="stylesheet" href="css/main.css">: The <link> tag defines a link between a document and an external resource.
+The <link> tag is used to link to external style sheets.
