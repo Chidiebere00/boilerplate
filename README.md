@@ -63,3 +63,8 @@ the charset isn’t declared within the first 512 bytes of your HTML document, y
 and hijacking!. ( 	A character in UTF8 can be from 1 to 4 bytes long. UTF-8 can represent any character in the
 Unicode standard. UTF-8 is backwards compatible with ASCII. UTF-8 is the preferred encoding for e-mail and web pages)
 
+<title></title>: The <title> element defines the title of the document, and is required in all HTML/XHTML documents.
+The <title> element: defines a title in the browser tab; provides a title for the page when it is added to favorites;
+displays a title for the page in search engine results
+
+
