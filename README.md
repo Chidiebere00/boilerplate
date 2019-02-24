@@ -50,4 +50,6 @@ in regards to the project.
 A form of documentation, it is usually a simple plain text file.
 
 **Examining index.html**
-<!doctype html> : simplified HTML5 doctype declaration
+<!doctype html> : simplified HTML5 doctype declaration.
+<html class="no-js" lang=""> : When Modernizr runs, it removes the "no-js" class and replaces it with "js". This is a
+way to apply different CSS rules depending on whether or not Javascript support is enabled.
