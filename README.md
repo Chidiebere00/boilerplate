@@ -71,3 +71,5 @@ displays a title for the page in search engine results
 which summarizes a page's content. Search engines show the meta description in search results mostly when the
 searched-for phrase is within the description.
 
+<meta name="viewport" content="width=device-width, initial-scale=1">": Used for responsive site or site for mobile;
+It’s basically a message to the mobile browser that says, “Render me differently, I’m designed for mobile screens too!”
