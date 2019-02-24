@@ -67,4 +67,7 @@ Unicode standard. UTF-8 is backwards compatible with ASCII. UTF-8 is the preferr
 The <title> element: defines a title in the browser tab; provides a title for the page when it is added to favorites;
 displays a title for the page in search engine results
 
+<meta name="description" content="">: The meta description is a snippet of up to about 155 characters – a tag in HTML:
+which summarizes a page's content. Search engines show the meta description in search results mostly when the
+searched-for phrase is within the description.
 
