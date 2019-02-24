@@ -50,4 +50,4 @@ in regards to the project.
 A form of documentation, it is usually a simple plain text file.
 
 **Examining index.html**
-![alt text] (C:\Users\carla\Pictures\Camera Roll\Capture.PNG "Logo Title text1")
+<!doctype html> : simplified HTML5 doctype declaration
