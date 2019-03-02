@@ -96,3 +96,25 @@ The <link> tag is used to link to external style sheets.
 <meta name="theme-color" content="#fafafa">: Selects the theme color of website.
 
 </head>: Puts an end to the start of <head> explained earlier. 
+
+<body>: The <body> tag defines the document's body.
+The <body> element contains all the contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc.
+
+ <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser.
+     Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]--> :Informs site visitor that their choice of browser is antiquated/outdated.
+
+ <!-- Add your site or application content here -->: Allows user to input their application content.
+
+ <p>Hello world! This is HTML5 Boilerplate.</p> : Text within a parragraph.
+
+<script src="js/vendor/modernizr-{{MODERNIZR_VERSION}}.min.js"></script>
+<script src="https://code.jquery.com/jquery-{{JQUERY_VERSION}}.min.js" integrity="{{JQUERY_SRI_HASH}}" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-{{JQUERY_VERSION}}.min.js"><\/script>')</script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>: 
+Modernizr is a small piece of JavaScript code that automatically detects the availability of next-generation web
+technologies in your user's browsers. Rather than blacklisting entire ranges of browsers based on “UA sniffing,”
+Modernizr uses feature detection to allow you to easily tailor your user's experiences based on the actual capabilities 
+of their browser.
