@@ -127,3 +127,7 @@ of their browser.
 <script src="https://www.google-analytics.com/analytics.js" async defer></script>:
 This code implements Google Analytics to your website which is a free Web analytics service that provides statistics 
 and basic analytical tools for search engine optimization(SEO) and marketing purposes.
+
+</body> : end of visible content of document.
+
+</html>: closing tag for HTML doc.
