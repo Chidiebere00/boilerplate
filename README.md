@@ -118,3 +118,12 @@ Modernizr is a small piece of JavaScript code that automatically detects the ava
 technologies in your user's browsers. Rather than blacklisting entire ranges of browsers based on “UA sniffing,”
 Modernizr uses feature detection to allow you to easily tailor your user's experiences based on the actual capabilities 
 of their browser.
+
+<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  <script>
+    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
+    ga('create', 'UA-XXXXX-Y', 'auto'); ga('send', 'pageview')
+  </script>
+<script src="https://www.google-analytics.com/analytics.js" async defer></script>:
+This code implements Google Analytics to your website which is a free Web analytics service that provides statistics 
+and basic analytical tools for search engine optimization(SEO) and marketing purposes.
