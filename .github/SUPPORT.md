@@ -70,4 +70,15 @@ except with Git, every time you save it creates a unique ID (a.k.a. the "SHA" or
 of what changes were made when and by who. Commits usually contain a commit message which is a brief description of what changes were made.
 (COMMITS NEED TO BE MADE IN ORDER TO PUSH OR PULL, ALWAYS COMMIT AFTER YOU MAKE ANY CHANGES!)
 
+<a href="https://s134.photobucket.com/user/carla12cool/media/Screenshot%206.png.html" target="_blank"><img src="https://i134.photobucket.com/albums/q99/carla12cool/Screenshot%206.png" border="0" alt=" photo Screenshot 6.png"/></a>
 
+-
+
+<a href="http://s134.photobucket.com/user/carla12cool/media/Screenshot%207.png.html" target="_blank"><img src="http://i134.photobucket.com/albums/q99/carla12cool/Screenshot%207.png" border="0" alt=" photo Screenshot 7.png"/></a>
+
+
+**Push**: Pushing refers to sending your committed changes to a remote repository, such as a repository hosted on GitHub.
+For instance, if you change something locally, you'd want to then push those changes so that others may access them.
+
+<a href="https://s134.photobucket.com/user/carla12cool/media/Screenshot%208.png.html" target="_blank"><img src="https://i134.photobucket.com/albums/q99/carla12cool/Screenshot%208.png" border="0" alt=" photo Screenshot 8.png"/></a>
+<a href="http://s134.photobucket.com/user/carla12cool/media/Screenshot%209.png.html" target="_blank"><img src="http://i134.photobucket.com/albums/q99/carla12cool/Screenshot%209.png" border="0" alt=" photo Screenshot 9.png"/></a>
